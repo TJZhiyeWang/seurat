@@ -1,0 +1,7 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+.git
+.travis.yml
+appveyor.yml
+cran-comments.md
+travis_setup.sh
